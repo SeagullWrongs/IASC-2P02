@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(215, 230, 228);
+    color:rgb(62, 111, 62);
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+li {
+    font-size: 20px;
+    /*list-style-type:georgian;*/
+    list-style-type: none;
+}
+
+a {
+    color:rgb(94, 69, 157);
+    text-decoration: none;
+} 
+a:hover {
+    color: rgb(93, 93, 224);
+    text-decoration: underline;
+}
